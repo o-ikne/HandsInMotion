@@ -4,4 +4,4 @@ The official implementation of the paper "HandsInMotion: Anatomically-Guided Dif
 ![method](assets/our_method_denoiser.jpg)
 
 
-**Code will be soon released !**
+**Code will be released soon !**
